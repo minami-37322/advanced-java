@@ -5,6 +5,8 @@ public class Ex01 {
         int stringLength=message.length();
 
         System.out.println(stringLength+"文字目です");
+
+        
     }
 
 }
